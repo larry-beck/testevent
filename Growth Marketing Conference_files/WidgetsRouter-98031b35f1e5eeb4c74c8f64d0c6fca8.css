@@ -1,0 +1,44 @@
+.stripe-bitcoin-payment-view--qrcode-wrapper {
+  padding: 17.5px;
+  background: white;
+  border: 1px solid #8f94a3;
+  width: 163px;
+  height: 163px;
+}
+.stripe-bitcoin-payment-view--success-message {
+  margin-top: 10px;
+  color: #419bbb;
+}
+.stripe-bitcoin-payment-view--success-icon {
+  font-size: 24px;
+}
+.stripe-bitcoin-payment-view--icon-bitcoin {
+  color: #868686;
+}
+
+.stripe-payment-view--Element-wrapper {
+  border: 1px solid #b0b7c2;
+  background-color: #ffffff;
+  border-radius: 3px;
+}
+
+.SCAModal--modal .modal-dialog {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+.SCAModal--container {
+  text-align: center;
+}
+.SCAModal--iframe {
+  border: none;
+  height: 600px;
+  width: 500px;
+  display: inline-block;
+  margin: auto;
+}
+
+
